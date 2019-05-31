@@ -1,1 +1,7 @@
-theme: jekyll-theme-minimal
+remote_theme:andrewbanchich/forty-jekyll-theme
+title: Steven T. Barnhart
+email: barnhart.steve@gmail.com
+linkedin_url: https://www.linkedin.com/in/stevenbarnhart
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 2
